@@ -1,0 +1,26 @@
+{
+  "name": "sat5-xmlrpc",
+  "version": "0.1.0",
+  "description": "A client library for the Red Hat Satellite 5 XML-RPC API",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redhat",
+    "satellite",
+    "xml-rpc"
+  ],
+  "author": "James Sumners",
+  "homepage": "https://github.com/jsumners/sat5-xmlrpc",
+  "bugs": "https://github.com/jsumners/sat5-xmlrpc/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsumners/sat5-xmlrpc.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "laic": "^0.3.4",
+    "xmlrpc": "^1.3.1"
+  }
+}
